@@ -14,7 +14,7 @@
 # Installation in Termux :
 
 ```
-$ pkg install python
+$ pkg install python2
 $ pkg install git
 $ pip2 install requests
 $ git clone https://github.com/Fukur0-3XP/reverseip
