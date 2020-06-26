@@ -9,6 +9,7 @@
 ```
 - python 2.7
 - requests
+- Only Linux Platform
 ```
 # Installation in Termux :
 
