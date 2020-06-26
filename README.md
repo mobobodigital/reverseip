@@ -18,6 +18,6 @@ $ pkg install python2
 $ pkg install git
 $ pip2 install requests
 $ git clone https://github.com/Fukur0-3XP/reverseip
-$ cd Sqli
+$ cd reverseip
 $ python2 reverse.py
 ```
