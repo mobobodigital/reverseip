@@ -1,3 +1,8 @@
+# Author : ./FUKUR0-3XP
+# Team : Black Coders Anonymous
+# Recode? Boleh, Asalkan Author Jangan Di Ganti ^_^
+# Maaf Ya Kodenya Acak"an + Simpel :'(
+
 M = '\033[1;31m'
 H = '\033[1;32m'
 K = '\033[1;33m'
